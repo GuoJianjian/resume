@@ -17,7 +17,7 @@ body{
 }
 .content ul li{
 	text-indent: 2em;
-	min-width: 600px !importent;
+	min-width: 300px;
 	list-style-type:none;
 }
 .content img{
